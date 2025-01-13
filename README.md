@@ -1,7 +1,7 @@
 # Book Organizer App
 
 ## Overview
-This is a simple Book Organizaer application written in Java with a graphical user interface (GUI) built using Swing. The application allows users to:  
+This is a simple Book Organizer application written in Java with a graphical user interface (GUI) built using Swing. The application allows users to:  
 
 - Add books to a list
 - Delete books from the list
